@@ -1,1 +1,13 @@
-
+<html>
+<body>
+<h1>E-Voting</h1>
+<h3>Voting has been an important of any government so would it be more benefitial to do it online?</h3>
+  <div class="topnav"
+       id="mytopnav">
+    <a href="stats.html">stats/a>
+      <a href="news.html">news</a>
+      <a href="contact.html">contact</a>
+      <a href="about.html">about</a>
+      </div>
+</body>
+</html>
